@@ -1,15 +1,1 @@
-## The Full JavaScript & ES6 Tutorial - (including ES7 & React)
- 
-#### Please use this resource for the following reasons!
-
-Find guides to each coding lecture.
-
-Discover answers to coding challenges and quizzes.
-
-Build a starter project for es6 in webpack.
-
-Enjoy the course, and keep coding!
-
-***
-
-Find the original course here: https://www.udemy.com/es6-in-depth/
+![Oh? You're approaching me?](https://i.kym-cdn.com/entries/icons/facebook/000/028/775/Screen_Shot_2019-03-06_at_4.32.48_PM.jpg)
